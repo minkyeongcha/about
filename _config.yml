@@ -73,3 +73,10 @@ defaults:
       type: liquid
     values:
       layout: single
+research:
+  type: liquid
+  path: /research/
+others:
+  type: liquid
+  path: /others/
+
