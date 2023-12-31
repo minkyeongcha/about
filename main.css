@@ -43,7 +43,7 @@ audio:not([controls]){
     display:none
 }
 a{
-    color:#a51417
+    color:#B3A369
 }
 a:hover,a:active{
     outline:0
@@ -709,7 +709,7 @@ tr,td,th{
     background-color:transparent
 }
 .btn--info{
-    background-color:#a51417
+    background-color:#B3A369
 }
 .btn--info:hover{
     background-color:#841012
@@ -788,17 +788,17 @@ tr,td,th{
     display:inline-block;
     margin-bottom:0.25em;
     padding:0.125em 0.25em;
-    color:#a51417;
+    color:#B3A369;
     text-align:center;
     text-decoration:none !important;
     border:1px solid;
-    border-color:#a51417;
+    border-color:#B3A369;
     border-radius:4px;
     cursor:pointer
 }
 .btn--research:hover{
     color:#fff;
-    background-color:#a51417 !important
+    background-color:#B3A369 !important
 }
 .notice{
     margin:2em 0 !important;
@@ -900,7 +900,7 @@ tr,td,th{
     padding-top:0
 }
 .notice--info a{
-    color:#a51417
+    color:#B3A369
 }
 .notice--info a:hover{
     color:#630c0e
@@ -1245,7 +1245,7 @@ tr,td,th{
     text-decoration:none
 }
 .greedy-nav a:hover{
-    color:#a51417
+    color:#B3A369
 }
 .greedy-nav button{
     position:absolute;
@@ -1975,7 +1975,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
     box-shadow:none
 }
 .help-block,.help-inline{
-    color:#a51417
+    color:#B3A369
 }
 .help-block{
     display:block;
