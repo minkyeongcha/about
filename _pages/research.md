@@ -1,3 +1,9 @@
+---
+title: "Research"
+permalink: /research/
+layout: research
+---
+
 <!doctype html>
 
 <html lang="en" class="no-js">
