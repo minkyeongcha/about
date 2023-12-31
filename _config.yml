@@ -89,9 +89,4 @@ defaults:
       layout: single
       author_profile: true
 
-research:
-  type: liquid
-  path: /research/
-others:
-  type: liquid
-  path: /others/
+
