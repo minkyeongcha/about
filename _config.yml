@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Min-kyeong (Min) Cha"
   avatar : "/assets/images/Min_headshot.jpeg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Ph.D. student at the School of Public Policy, Georgia Institute of Technology."
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
