@@ -13,12 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: About
+title: Min-kyeong (Min) Cha
 email: mcha39@gatech.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Homepage for Min-kyeong (Min) Cha, PhD student at the School of Public Policy, Georgia Institute of Technology.
 #twitter_username: username
 #github_username: username
 minimal_mistakes_skin: default
@@ -58,27 +56,17 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
+  name   : "Min-kyeong (Min) Cha"
+  avatar : "/assets/images/Min_headshot.jpeg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:mcha39@gatech.edu"
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envlope"
+      icon: "fab fa-fw fa-envelope"
       url: "mailto:mcha39@gatech.edu"
 
 defaults:
