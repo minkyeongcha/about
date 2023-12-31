@@ -5,7 +5,6 @@ layout: research
 author_profile: true
 ---
 
-<!doctype html>
 <html lang="en" class="no-js">
 
    <head>
