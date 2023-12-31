@@ -89,9 +89,9 @@ defaults:
       layout: single
       author_profile: true
 
-category_archive:
+research:
   type: liquid
-  path: /categories/
-tag_archive:
+  path: /research/
+others:
   type: liquid
-  path: /tags/
+  path: /others/
