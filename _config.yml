@@ -67,3 +67,11 @@ footer:
       url: "mailto:mcha39@gatech.edu"
 
 
+defaults:
+  # _pages
+  - scope:
+      type: liquid
+    values:
+      layout: single
+      author_profile: true
+
