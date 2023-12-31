@@ -616,7 +616,7 @@ a.reversefootnote:hover{
     text-decoration:underline
 }
 .required{
-    color:#ee5f5b;
+    color:#003057;
     font-weight:bold
 }
 @-webkit-keyframes intro{
@@ -2307,7 +2307,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 .page__taxonomy-item:hover{
     text-decoration:none;
-    color:#7c0f11
+    color:#003057
 }
 .page__comments{
     clear:both;
