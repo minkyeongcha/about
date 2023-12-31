@@ -2,10 +2,12 @@
 title: "Research"
 permalink: /research/
 layout: research
-author_profile: true
 ---
 
 <html lang="en" class="no-js">
+
+   <script src="https://kit.fontawesome.com/3290b8e8b0.js" crossorigin="anonymous"></script>
+
 
    <head>
       <meta charset="utf-8">
