@@ -1,8 +1,4 @@
----
-title: "Research"
-permalink: /research/
-layout: research
----
+
 
 <html lang="en" class="no-js">
 
