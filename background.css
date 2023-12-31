@@ -1174,7 +1174,7 @@ tr,td,th{
     border-radius:0
 }
 .pagination li a:hover{
-    color:#7c0f11
+    color:#B3A369
 }
 .pagination li a.current{
     color:#fff;
@@ -2307,7 +2307,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 .page__taxonomy-item:hover{
     text-decoration:none;
-    color:#7c0f11
+    color:#B3A369
 }
 .page__comments{
     clear:both;
