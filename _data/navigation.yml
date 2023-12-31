@@ -1,6 +1,6 @@
 main:
   - title: "CV"
-    url: /posts/
+    url: /CV
   - title: "Research"
     url: /research/
   - title: "More about Me"
