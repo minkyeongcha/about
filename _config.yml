@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Homepage for Min-kyeong (Min) Cha, PhD student at the School of Public Policy, Georgia Institute of Technology.
 #twitter_username: username
 #github_username: username
-minimal_mistakes_skin: air
+minimal_mistakes_skin: default
 search: true
 
 # Build settings
@@ -30,9 +30,6 @@ remote_theme: mmistakes/minimal-mistakes
 #paginate: 5 # amount of posts to show
 #paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
-include:
-  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -69,31 +66,4 @@ footer:
       icon: "fab fa-fw fa-envelope"
       url: "mailto:mcha39@gatech.edu"
 
-defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: "_pages"
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-
-
-research:
-  type: liquid
-  path: /research/
-others:
-  type: liquid
-  path: /others/
 
