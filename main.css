@@ -1283,7 +1283,7 @@ tr,td,th{
     left:0;
     bottom:0;
     height:4px;
-    background:#bc4f51;
+    background:#003057;
     width:100%;
     -webkit-transition:all 0.2s ease-in-out;
     transition:all 0.2s ease-in-out;
@@ -1562,7 +1562,7 @@ div.highlighter-rouge .highlight,figure.highlight .highlight{
 }
 .highlight .err{
     color:#a40000;
-    border:1px solid #ef2929
+    border:1px solid #003057
 }
 .highlight .g{
     color:#000
@@ -1620,7 +1620,7 @@ div.highlighter-rouge .highlight,figure.highlight .highlight{
     font-style:italic
 }
 .highlight .gr{
-    color:#ef2929
+    color:#003057
 }
 .highlight .gh{
     color:#000080;
