@@ -1,4 +1,4 @@
-
+<!doctype html>
 
 <html lang="en" class="no-js">
 
@@ -69,7 +69,7 @@
          </div>
 
          
-         <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
+   <article class="page" itemscope itemtype="http://schema.org/CreativeWork">
             <meta itemprop="headline" content="">
             <meta itemprop="description" content="">
             <div class="page__inner-wrap">
