@@ -86,9 +86,9 @@ author_profile: true
                   <!--<aside class="sidebar__right"><nav class="toc" markdown="1"><header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Tags</h4></header>* Auto generated table of contents {:toc .toc__menu}</nav></aside>-->
                   <style> details { float:left; cursor: pointer; } details > summary:hover { color: #fff; background-color: #B3A369 !important; } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #B3A369; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #B3A369; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; }</style>
                  
-                  <p> My research focuses on the electrification and clean energy transition. I study how environmental policies that target renewable energy affect the adoption of residential solar. I am also interested in a change in electricity consumption after the adoption of renewable electricity from utility programs, including community solar. </p>
+   <p> My research focuses on the electrification and clean energy transition. I study how environmental policies that target renewable energy affect the adoption of residential solar. I am also interested in a change in electricity consumption after the adoption of renewable electricity from utility programs, including community solar. </p>
                   
-                  <h1 id="publications">Publications</h1>
+   <h1 id="publications">Publications</h1>
                   <p>Following neighbors or regional leaders? Unpacking the effect of geographic proximity in local climate policy diffusion, with An, B. Y., M. Butz, A., & Mitchell, J. L.<em>Policy Sciences</em> (2022) <br /></p>
                   <details>
                      <summary>Abstract</summary>
@@ -96,44 +96,44 @@ author_profile: true
                   </details>
                   <p>  <a href="https://link.springer.com/article/10.1007/s11077-023-09499-1" class="btn--research">Paper</a> </p>
                   
-                  <p>Exploring the willingness of consumers to electrify their homes, with Brown, M. A., Kale, S., & Chapman, O.<em> Applied Energy</em> (2023) <br /></p>
+ <p>Exploring the willingness of consumers to electrify their homes, with Brown, M. A., Kale, S., & Chapman, O.<em> Applied Energy</em> (2023) <br /></p>
                   <details>
                      <summary>Abstract</summary>
                      <p> This paper explores the willingness of consumers to pay for three key electrification technologies – electric vehicles (EVs), rooftop solar (RPV), and air source heat pumps (HPs), using a nuanced two-step model. The first step focuses on whether or not a consumer would consider purchasing a technology, paying particular attention to thresholds and constraints. For those who are willing to pay, the second step focuses on the minimum return-on-investment (ROI) that they require, based on gradations of supporting circumstances such as sustainable lifestyle and climate concern. The second step conjoins respondents' willingness to pay if their energy savings are sufficient and those who are willing to pay if a supportive policy were available. We use the two-step Heckman model to test the validity of our framework using data from an original survey of 1800 adults living in the state of Georgia, USA in 2021. While various enablers and constraints play significant roles in the first step as thresholds, the internal motivators highlighted in the theories of innovation diffusion and planned behavior dominate the minimum ROI. The most consistently significant predictors of being willing to pay for EVs, RPVs, and HPs are having knowledge about energy systems, being risk-tolerant, not being a Republican, living a highly sustainable lifestyle, and believing that there is a climate urgency. Additionally, technology-specific infrastructure constraints are impactful, such as heating with natural gas when considering a conversion to electric heat pumps. Several common predictors affect ROI across all three technologies (e.g., having a sustainable lifestyle and being younger). Common predictors can be used to effectively guide policy design and deployment programs, and may help to promote other electric devices.</p>
                   </details>
                   <p>  <a href="https://www.sciencedirect.com/science/article/pii/S0306261923001551?casa_token=yc3yKOuw7I0AAAAA:D8iXsZ0v9xfrudThivNDfiiR68HqiQbrHPHM_hBb7Fz6Vg3MnAlFWLL6KwTaPdvQHFNQTOzc" class="btn--research">Paper</a> </p>
 
-                  <p>Rooftop solar for all: Closing the gap between the technically possible and the achievable, with Brown, M. A., Hubbs, J.,& Gu, V. X.<em> Energy Research & Social Science </em> (2021) <br /></p>
+ <p>Rooftop solar for all: Closing the gap between the technically possible and the achievable, with Brown, M. A., Hubbs, J.,& Gu, V. X.<em> Energy Research & Social Science </em> (2021) <br /></p>
                   <details>
                      <summary>Abstract</summary>
                      <p> Estimating the technical potential of carbon-abatement options involves straightforward calculations, while estimating the achievable potential is more challenging. We illustrate this by examining solar photovoltaics (PV). We estimate that a 92% gap exists between the achievable and technical potential for rooftop solar in Georgia and it is shrinking slowly, while in contrast the state’s solar farms are rapidly expanding. Closing the gap between the technically possible and achievable levels of solar PV requires an understanding of why some electricity providers promote utility-scale solar and not solar rooftop systems. Our financial analysis suggests that rooftop PV on buildings in Georgia could deliver substantial economic benefits to host customers, if utilities offered favorable net metering rates and if host customers, in turn, curtailed their consumption. Comparing the slow diffusion of rooftop solar in Georgia with California and Massachusetts that are rapidly solarizing, underscores the need to develop methodologies that account for utility business models, policy interventions, and behavioral factors. A sensitivity analysis of alternative net metering policies, rebound and curtailment behaviors, a stakeholder analysis, and an assessment of barriers and accelerants documents that these factors are as important as techno-economic drivers in explaining solar technology transitions. Given the numerous barriers to adoption by low- and moderate-income households, an equitable solar transition requires business models and policies that foster participation by all.</p>
                   </details>
                   <p>  <a href="https://www.sciencedirect.com/science/article/pii/S2214629621002966?casa_token=HyR_VNSBAUUAAAAA:nC8YPekXhXJAKyeiKW60fZ3p7gZxvd6lO8Nugj7oMNZtWjdovZJ_Q8RaK9UQ4VkiBLaFJqH4" class="btn--research">Paper</a> </p>
                   
-                  <p> Cross-National Comparative Study on the Innovation Efficiency of the Biopharmaceutical Industry, with Park, H., & Lee, H. A. <em> The Korean Journal of Health Economics and Policy </em> (2020) <br /></p>
+   <p> Cross-National Comparative Study on the Innovation Efficiency of the Biopharmaceutical Industry, with Park, H., & Lee, H. A. <em> The Korean Journal of Health Economics and Policy </em> (2020) <br /></p>
 
-                  <p> South Korea’s Nuclear Energy Future, with Dalton, T. <em> The Diplomat </em> (2016) <br /></p>
+ <p> South Korea’s Nuclear Energy Future, with Dalton, T. <em> The Diplomat </em> (2016) <br /></p>
                   <details>
                   <p>  <a href="https://thediplomat.com/2016/02/south-koreas-nuclear-energy-future/" class="btn--research">Article</a> </p>
 
-                  <h1 id="working-papers--works-in-progress">Working Papers / Works In Progress</h1>
+ <h1 id="working-papers--works-in-progress">Working Papers / Works In Progress</h1>
                   <p>Unpacking electricity demand change – in case of community solar (tentative), with Matisoff, D. <br /></p>
                  
-                  <p> Toward residential decarbonization: Analyzing household co-adoption of rooftop solar, electric vehicles, and efficient HVAC systems, with Struthers, C., Brown, M., Kale, S. and Chapman, O. Under Review in <em> Renewable Energy </em> <br /></p>
+ <p> Toward residential decarbonization: Analyzing household co-adoption of rooftop solar, electric vehicles, and efficient HVAC systems, with Struthers, C., Brown, M., Kale, S. and Chapman, O. Under Review in <em> Renewable Energy </em> <br /></p>
                   <details>
                      <summary>Abstract</summary>
                      <p> The marketplace of climate solutions has grown considerably. Three technologies, in particular, exhibit strong potential for disruptive change and advancement in the residential sector: electric vehicles (EVs), rooftop photovoltaics (RPVs), and efficient heating, ventilation, and air conditioning (HVAC) systems. Many scholars have studied the adoption of these; we address their co-adoption, i.e., the adoption of multiple technologies. Using a survey conducted in Georgia, we examine pro-environmental behavior, risk tolerance, and energy-related knowledge as social-psychological drivers for the co-adoption of RPVs, EVs, and efficient HVACs (including heat pumps). We conclude that some but not all of these drivers are relevant to the adoption and co-adoption of the three transformational climate solutions. Pro-environmental behaviors, for instance, appear to create conditions for “positive spillover,” propelling consumers toward adopting multiple climate solutions, whereas energy knowledge has no clear relationship with co-adoption. At the same time, the complexities of their influence are unique to different combinations of technologies – one notable example is the significance of risk tolerance when RPV is added to technology bundles.  Our paper contributes to the literature by broadening the understanding of the adoption of bundled climate solutions. </p>
          
                   
-                  <p>Varying policy designs, different policy outcomes: How net energy metering (NEM) policies affected the adoption of residential solar (tentative)<br /></p>
+   <p>Varying policy designs, different policy outcomes: How net energy metering (NEM) policies affected the adoption of residential solar (tentative)<br /></p>
                   <details>
                      <summary>Abstract</summary>
                      <p> The rapid diffusion of distributed energy resources (DERs) has occurred recently in part due to policies encouraging more adoption. Both utilities and state governments have devised various policy instruments, and particularly net energy metering (NEM) tariffs have been widely used. The net energy metering (NEM) tariff, at which utility companies buy the excess solar generated from rooftop solar, provides financial incentives to customers. The NEM tariff differs by state, from a tariff in that utilities provide a retail rate as a buyback rate to several alternative configurations with different billing periods (instantaneous vs. monthly) and various buyback rates (such as avoided cost). Diverse tariff designs provide costs and benefits differently, leading to nonuniform effects on both rooftop solar consumers and potential adopters. Building upon previous works on policy designs of net energy metering, which have gained less attention despite its prevalence, we explore different tariff designs and create indexes encompassing various NEM tariffs. Using panel data (about 200 investor-owned utilities in 50 states from 2013 to 2021), we evaluate how different tariff designs have affected the penetration of distributed solar. By studying the correlation between policy designs and the adoption of DERs, our study contributes to policy design literature, understanding how various policy designs affect policy outcomes and how to design policies for other distributed resources.</p>
                
                   
-                  <p> Know your onions? How does knowledge of energy affect support for renewable energy infrastructure with different partisanship (tentative), with Struthers, C. and Brown, M.<br /></p>
+ <p> Know your onions? How does knowledge of energy affect support for renewable energy infrastructure with different partisanship (tentative), with Struthers, C. and Brown, M.<br /></p>
                  
-               </section>
+  </section>
                <footer class="page__meta"></footer>
             </div>
          </article>
