@@ -2,7 +2,7 @@
 title: "Small thoughts on dealing with monthly consumption data"
 date: 2024-07-09
 categories:
-  - monthly variation
+  - data analysis
 tags:
   - Monthly consumption
   - Data analysis 
