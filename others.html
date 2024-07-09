@@ -79,10 +79,24 @@
                <section class="page__content" itemprop="text">
                   <p> This page is under construction. Stay tuned :) </p>
                </section>
+                      <!-- Add a section to list posts -->
+               <section class="page__content" itemprop="text">
+                  <h2> Monthly variation </h2>
+                  <ul>
+                     {% for post in site.posts %}
+                        {% if post.categories contains 'monthly-variation' %}
+                           <li>
+                              <a href="{{_posts/monthly variation}}">{{Small thoughts on Monthly consumption data}}</a>
+                           </li>
+                        {% endif %}
+                     {% endfor %}
+                  </ul>
+               </section>
                <footer class="page__meta"></footer>
             </div>
          </article>
       </div>
+      
       <div class="page__footer">
          <footer>
             <!-- start custom footer snippets --> <a href="https://minkyeongcha.github.io/about/">Sitemap</a> <!-- end custom footer snippets -->
