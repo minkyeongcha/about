@@ -15,6 +15,9 @@ When working with monthly electricity and natural gas consumption data, I've enc
 - Look into differences between same month / different years
 - Add the same month/previous year value as in Ferraro et al. (2011)
 - Matching/Synthetic DiD 
-  
+
+
+(papers)   
 Ferraro, P. J., Miranda, J. J., & Price, M. K. (2011). The persistence of treatment effects with norm-based policy instruments: evidence from a randomized environmental policy experiment. American Economic Review, 101(3), 318-322.
+
 Roth, J., Sant’Anna, P. H., Bilinski, A., & Poe, J. (2023). What’s trending in difference-in-differences? A synthesis of the recent econometrics literature. Journal of Econometrics, 235(2), 2218-2244.
