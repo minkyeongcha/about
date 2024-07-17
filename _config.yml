@@ -62,6 +62,9 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+collections:
+  posts:
+    output: true
 
 author:
   name   : "Min-kyeong (Min) Cha"
