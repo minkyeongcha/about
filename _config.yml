@@ -51,6 +51,17 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-archives
+
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layout: archive
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 
 author:
   name   : "Min-kyeong (Min) Cha"
