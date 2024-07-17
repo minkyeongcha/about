@@ -62,9 +62,13 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
-collections:
-  posts:
-    output: true
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      read_time: true
 
 author:
   name   : "Min-kyeong (Min) Cha"
