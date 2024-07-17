@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Small thoughts on dealing with monthly consumption data"
-date: 2024-07-09
+date: 2024-07-09 hh:mm:ss -0000
 categories: data analysis
 tags:
   - Monthly consumption
