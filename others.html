@@ -79,17 +79,7 @@
                <section class="page__content" itemprop="text">
                   <p> This page is under construction. Stay tuned :) </p>
                </section>
-                      <!-- Add a section to list posts -->
-               <section class="page__content" itemprop="text">
-                  <h2> Memos in Data Analysis </h2>
-                  <ul>
-                     {% for post in site.posts %}
-                        {% if post.categories contains 'data analysis' %}
-                           <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                        {% endif %}
-                     {% endfor %}
-                  </ul>
-               </section>
+            
                <footer class="page__meta"></footer>
             </div>
          </article>
