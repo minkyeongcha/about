@@ -77,16 +77,70 @@
                </header>
                <section class="page__content" itemprop="text">
                   <!--<aside class="sidebar__right"><nav class="toc" markdown="1"><header><h4 class="nav__title"><i class="fas fa-file-alt"></i> Tags</h4></header>* Auto generated table of contents {:toc .toc__menu}</nav></aside>-->
-                  <style>  details { float:left; cursor: pointer; } details > summary:hover { color: #fff; background-color: #B3A369 !important; } details > summary { display: inline-block; margin-bottom: 0.25em; padding: 0.125em 0.25em; color: #B3A369; text-align: center; text-decoration: none !important; border: 1px solid; border-color: #B3A369; border-radius: 4px; cursor: pointer; } details > summary::-webkit-details-marker { display: none; float:left; } details > p { margin-bottom: 0.25em; padding: 0.125em 0.25em; box-shadow: 1px 1px 2px #bbbbbb; }</style>
+                  <style>  /* Remove float and fix layout */
+details {
+  display: inline-block; /* Ensures the details element aligns with other elements horizontally */
+  cursor: pointer;
+}
+
+details > summary:hover {
+  color: #fff;
+  background-color: #B3A369 !important;
+}
+
+details > summary {
+  margin-bottom: 0.25em;
+  padding: 0.125em 0.25em;
+  color: #B3A369;
+  text-align: center;
+  text-decoration: none !important;
+  border: 1px solid;
+  border-color: #B3A369;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
+}
+
+details > p {
+  margin-bottom: 0.25em;
+  padding: 0.125em 0.25em;
+  box-shadow: 1px 1px 2px #bbbbbb;
+}
+
+/* Ensure the 'Paper' button and details are aligned horizontally */
+.button-container {
+  display: inline-block; /* Align the container with the other elements horizontally */
+  margin-top: 10px; /* Adjust spacing between lines of text and buttons */
+}
+
+button, .btn--research {
+  display: inline-block; /* Ensure the buttons are inline with each other */
+  margin-left: 10px; /* Add spacing between the buttons */
+  padding: 0.5em 1em;
+  background-color: #B3A369;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+button:hover, .btn--research:hover {
+  background-color: #A0A05A;
+}
+</style>
 
                   <h1 id="working-papers--works-in-progress"> Work in Progress </h1>
                   <p> Solar rebound without solar panels? Unraveling consumption behaviors change in community solar programs (Job Market Paper), with Matisoff, D. Submitted to <em>JPAM</em> <br /></p>
+                 <div class="button-container">
                   <details>
                      <summary>Abstract</summary>
                      <p> How does electricity consumption behavior change with different energy sources? We seek to understand how consumers change their consumption behaviors when they begin to use renewable electricity via a community solar program. Previous research has found consumers distinguish the power sources of electricity and even change their consumption behavior. Recent studies found that consumers increase their total consumption after adopting rooftop solar panels (‘Solar Rebound'), though studies on community solar programs are absent. This study explores household-level consumption behavior after adopting solar electricity without panel installation. We use household-level monthly electricity consumption data in a large electric co-op in Georgia, ranging from 2015 to 2023, for both community solar subscribers and non-subscribers. We use staggered difference-in-differences, along with matching, to compare consumption changes before and after the subscription. Findings reveal that the consumption does not change after subscription, but subscribers’ monthly bills increase by about 3-4%, indicating they pay marginally more to make the grid greener. This study will broaden the understanding of consumer behavior by adding the analysis of prevalent but under-studied community solar electricity programs in the Southeast context. It will help utility planners understand the changing demand as a result of renewable energy adoption. </p>
                   </details>
-                  <p>  </p>
-                  <p>  </p>
+                 </div>
+
 
                   <p> Wired for solar without installation: Understanding Utility Adoption of Community Solar Projects, with Matisoff, D. <br /></p>
 
@@ -94,11 +148,15 @@
      
                   <h1 id="publications">Publications</h1>
                   <p>Toward residential decarbonization: Analyzing social-psychological drivers of household co-adoption of rooftop solar, electric vehicles, and efficient HVAC systems in Georgia, U.S., with Struthers, C., Brown, M., Kale, S., & Chapman, O. <em> Renewable Energy </em> (forthcoming) <br /></p>
+                  <div class="button-container">
+
                   <details>
                      <summary>Abstract</summary>
                      <p> The marketplace of climate solutions has grown considerably. Three technologies, in particular, exhibit strong potential for disruptive change and advancement in the residential sector: electric vehicles (EVs), rooftop photovoltaics (RPVs), and efficient heating, ventilation, and air conditioning (HVAC) systems. Many scholars have studied the adoption of these; we address their co-adoption, i.e., the adoption of multiple technologies. Using a survey conducted in Georgia, we examine pro-environmental behavior, risk tolerance, and energy-related knowledge as social-psychological drivers for the co-adoption of RPVs, EVs, and efficient HVACs (including heat pumps). We conclude that some but not all of these drivers are relevant to the adoption and co-adoption of the three transformational climate solutions. Pro-environmental behaviors, for instance, appear to create conditions for “positive spillover,” propelling consumers toward adopting multiple climate solutions, whereas energy knowledge has no clear relationship with co-adoption. At the same time, the complexities of their influence are unique to different combinations of technologies – one notable example is the significance of risk tolerance when RPV is added to technology bundles.  Our paper contributes to the literature by broadening the understanding of the adoption of bundled climate solutions.</p>
                   </details>
-                  <p>  <a href="" class="btn--research">Paper</a> </p>
+                  <a href="" class="btn--research">Paper</a> 
+                  </div>
+
                   
                   <p>Following neighbors or regional leaders? Unpacking the effect of geographic proximity in local climate policy diffusion, with An, B. Y., M. Butz, A., & Mitchell, J. L. <em>Policy Sciences</em> (2023) <br /></p>
                   <details>
